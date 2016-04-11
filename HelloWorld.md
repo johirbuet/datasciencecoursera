@@ -1,4 +1,2 @@
-# datasciencecoursera
-##Welcome
-*Item 1
-*Item 2
+# datasciencecoursera Repository
+##This is a Markdown file
